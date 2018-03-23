@@ -17,6 +17,6 @@ class Stack
 
   def show
      # return a copy of the stack
-    stack.dup
+    @stack.dup
   end
 end
